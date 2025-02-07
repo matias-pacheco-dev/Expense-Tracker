@@ -16,3 +16,4 @@ Technologies Used
 ASP.NET Core MVC: The project is developed using ASP.NET Core MVC, a robust framework for building scalable and maintainable web applications.
 SyncFusion Component Library: This library is used to enhance the user interface with modern components such as grids, charts, and input controls, providing a responsive experience.
 SQL Server: For storing and retrieving expense data.
+
